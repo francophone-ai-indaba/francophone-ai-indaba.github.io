@@ -5,13 +5,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   to discuss the issues other francophones ai practitioners are facing
   when trying to dive into ai. Suggest solutions and discuss what has been done so far. 
 baseurl: "/nlpd@indaba"
-twitter_username: @peter_kandy
+twitter_username: '@peter_kandy'
 github_username:  Kandy-Peter
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Kandy
-paginate: 30
 disqus: 'demowebsite'
 markdown: kramdown
 kramdown:
