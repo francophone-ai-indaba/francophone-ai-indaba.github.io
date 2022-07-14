@@ -1,0 +1,16 @@
+<!-- begin post -->
+<div class="card">
+    <a href="{{ post.url | absolute_url }}">
+        {% if person.image %} <img class="rounded mb-4" src="{{ post.image }}" alt="{{ person.name }}"> {% endif %}
+    </a>
+    <div class="card-block">
+        <h2 class="card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ person.name }}</a></h2>
+        <p class="card-text text-muted">{{ person.role | strip_html | truncatewords:15 }}</p>
+        <div class="metafooter">
+            <div class="wrapfooter small d-flex align-items-center">
+                <p>see more</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
