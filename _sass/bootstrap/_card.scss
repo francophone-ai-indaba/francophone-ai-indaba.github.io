@@ -11,6 +11,7 @@
   background-color: $card-bg;
   background-clip: border-box;
   border: $card-border-width solid $card-border-color;
+  box-shadow: 1px 1px 5px #e2e2e2;
   @include border-radius($card-border-radius);
 
   > hr {
@@ -28,6 +29,10 @@
     .list-group-item:last-child {
       @include border-bottom-radius($card-border-radius);
     }
+  }
+
+  .card-block {
+    padding: 10px;
   }
 }
 
