@@ -10,12 +10,6 @@ topmenu:
 - title: '2018'
   url: "indaba-2018/"
 
-# - title: Get this theme  
-#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-#   class: "ml-2 btn btn-dark text-white px-3"
-#   external: true
-
-
 # Footer Menu
 footermenu:
 
