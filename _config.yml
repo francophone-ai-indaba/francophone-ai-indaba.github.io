@@ -1,0 +1,42 @@
+title: nlpd-indaba
+email: kandypeter03@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Gather and connect African francophones who are in AI
+  to discuss the issues other francophones ai practitioners are facing
+  when trying to dive into ai. Suggest solutions and discuss what has been done so far.
+domain: nlpd@indaba2022.github.io  
+baseurl: "/index.html"
+url: "https://nlpd@indaba2022.github.io"
+twitter_username: '@peter_kandy'
+github_username:  Kandy-Peter
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Kandy
+disqus: 'demowebsite'
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Authors
+authors:
+  sal:
+    name: Kandy
+    display_name: Kandy
+    avatar: 'assets/images/sal.png'
+    email: kandypeter03@gmail.com
+    web: https://kandy-peter.github.io/My-portfolio/
+    twitter: https://twitter.com/peter_kandy
+    description: "I am software developer and I build website with react, django, ruby on rails and jekyll"
