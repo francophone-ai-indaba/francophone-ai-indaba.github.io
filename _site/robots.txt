@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/index.html/sitemap.xml
+Sitemap: http://localhost:4000/nlpd-indaba/sitemap.xml
