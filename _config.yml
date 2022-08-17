@@ -5,8 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   to discuss the issues other francophones ai practitioners are facing
   when trying to dive into ai. Suggest solutions and discuss what has been done so far.
 domain: francophone-ai.github.io
-baseurl: "/index.html"
 url: "https://francophone-ai.github.io"
+baseurl: ""
 twitter_username: '@peter_kandy'
 github_username:  Kandy-Peter
 permalink: "/:title/"
