@@ -8,10 +8,6 @@ cards:
   role: Ph.D. Student at INRIA Paris. Focusing on Multilingual Modeling. NLP Instructor at ENSAEparis. Interned at Amazonscience and Apple AI/ML
   picture: assets/images/5.jpg
 
-- name: Bousso Baali
-  role: BTC
-  picture: assets/images/5.jpg
-
 - name: Salomon Kabongo
   role: Organizer of the conference
   picture: assets/images/5.jpg
@@ -21,5 +17,9 @@ cards:
   picture: assets/images/5.jpg
 
 - name: Espoir Murhabazi
+  role: Organiser of the conference
+  picture: assets/images/5.jpg
+
+- name: Nando Tezoh
   role: Organiser of the conference
   picture: assets/images/5.jpg

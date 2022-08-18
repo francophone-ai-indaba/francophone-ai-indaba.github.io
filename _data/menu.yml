@@ -1,14 +1,14 @@
 # Top Menu
 topmenu:
-- title: Home(2022)
+- title: Home (2022)
   url: ""
   class: "ml-2 btn btn-dark text-white px-3"
 
-- title: '2019'
-  url: "indaba-2019/"
+# - title: '2019'
+#   url: "indaba-2019/"
 
-- title: '2018'
-  url: "indaba-2018/"
+# - title: '2018'
+#   url: "indaba-2018/"
 
 # Footer Menu
 footermenu:
