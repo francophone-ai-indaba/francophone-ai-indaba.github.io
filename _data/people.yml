@@ -1,12 +1,12 @@
 ## People who will join the conference
 cards:
-- name: [Invited Speaker] Moustapha Cisse
+- name: \[Invited Speaker\] Moustapha Cisse
   role: Head of Google AI Center Accra. Founder and Director of AMMI at AIMS
-  picture: assets/images/5.jpg
+  picture: assets/images/mc.jpg
 
-- name: [Invited Speaker] Benjamin Muller
+- name: \[Invited Speaker\] Benjamin Muller
   role: Ph.D. Student at INRIA Paris. Focusing on Multilingual Modeling. NLP Instructor at ENSAEparis. Interned at Amazonscience and Apple AI/ML
-  picture: assets/images/5.jpg
+  picture: assets/images/bm.jpg
 
 - name: Salomon Kabongo
   role: Organizer of the conference
