@@ -3,23 +3,29 @@ cards:
 - name: Moustapha Cisse
   role: Head of Google AI Center Accra. Founder and Director of AMMI at AIMS
   picture: assets/images/mc.jpg
+  link: https://nexteinstein.org/person/moustapha-cisse/
 
 - name: Benjamin Muller
   role: Ph.D. Student at INRIA Paris. Focusing on Multilingual Modeling. NLP Instructor at ENSAEparis. Interned at Amazonscience and Apple AI/ML
   picture: assets/images/bm.jpg
+  link: https://benjamin-mlr.github.io/
 
 - name: Salomon Kabongo
   role: Organizer of the conference
   picture: assets/images/5.jpg
+  link: https://skabongo.github.io/
 
 - name: Gilles Hacheme
   role: Organizer of the conference
   picture: assets/images/5.jpg
+  link: https://www.gilleshacheme.com/
 
 - name: Espoir Murhabazi
   role: Organiser of the conference
   picture: assets/images/5.jpg
+  link: https://www.murhabazi.com/
 
 - name: Nando Tezoh
   role: Organiser of the conference
   picture: assets/images/5.jpg
+  link: https://twitter.com/nandotezoh
