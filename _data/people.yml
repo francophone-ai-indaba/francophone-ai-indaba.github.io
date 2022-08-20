@@ -10,6 +10,27 @@ cards:
   picture: assets/images/bm.jpg
   link: https://benjamin-mlr.github.io/
 
+- name: Masakhane Francophone
+  role: Community talk 01
+  picture: assets/images/masakhane.jpg
+  link: https://www.masakhane.io/
+
+- name: Galsen AI
+  role: Community talk 02
+  picture: assets/images/galsen.png
+  link: https://galsen.ai/
+
+
+- name: Ai4Innov
+  role: Community talk 03
+  picture: assets/images/ai4inov.jpeg
+  link: https://ai4innov1.gitlab.io/ai4innov/
+
+- name: IVIA-AF
+  role: Community talk 04
+  picture: assets/images/ivia-af.jpg
+  link: https://twitter.com/IviaAf/
+
 - name: Salomon Kabongo
   role: Organizer of the conference
   picture: assets/images/5.jpg
