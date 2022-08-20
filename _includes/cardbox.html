@@ -1,7 +1,7 @@
 <!-- begin post -->
 <div class="card">
     <a href="{{ post.url | absolute_url }}">
-        {% if person.picture %} <img class="rounded mb-4" src="{{ person.picture }}" alt="{{ person.name }}" class="center" width="300"> {% endif %}
+        {% if person.picture %} <img class="rounded mb-4" src="{{ person.picture }}" alt="{{ person.name }}" class="center" height="100px"> {% endif %}
     </a>
     <div class="card-block">
         <h2 class="card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ person.name }}</a></h2>
