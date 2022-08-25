@@ -1,33 +1,33 @@
 ## People who will join the conference
 cards:
 - name: Moustapha Cisse, Speaker
-  role: Head of Google AI Center Accra. Founder and Director of AMMI at AIMS
+  role: Invited speaker, Head of Google AI Center Accra. Founder and Director of AMMI at AIMS
   picture: assets/images/mc.jpg
   link: https://nexteinstein.org/person/moustapha-cisse/
 
 - name: Benjamin Muller [Speaker]
-  role: Ph.D. Student at INRIA Paris. Focusing on Multilingual Modeling. NLP Instructor at ENSAEparis. Interned at Amazonscience and Apple AI/ML
+  role: Invited speaker, Ph.D. Student at INRIA Paris. Focusing on Multilingual Modeling. NLP Instructor at ENSAEparis. Interned at Amazonscience and Apple AI/ML
   picture: assets/images/bm.jpg
   link: https://benjamin-mlr.github.io/
 
-- name: Masakhane Francophone
-  role: Community talk 01
+- name: Raoul de Charette
+  role: Invited speaker, Inria RITS team
   picture: assets/images/masakhane.jpg
-  link: https://www.masakhane.io/
+  link: https://team.inria.fr/rits/membres/raoul-de-charette/
 
 - name: Galsen AI
-  role: Community talk 02
+  role: Community talk 01
   picture: assets/images/galsen.png
   link: https://galsen.ai/
 
 
 - name: Ai4Innov
-  role: Community talk 03
+  role: Community talk 02
   picture: assets/images/ai4inov.jpeg
   link: https://ai4innov1.gitlab.io/ai4innov/
 
 - name: IVIA-AF
-  role: Community talk 04
+  role: Community talk 03
   picture: assets/images/ivia-af.jpg
   link: https://twitter.com/IviaAf/
 
